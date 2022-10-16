@@ -1,0 +1,41 @@
+/* Write your code here. */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.navContainer {
+  background-color: #9796f0;
+  padding: 16px 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.emojiLogo {
+  width: 80px;
+}
+
+.navText {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+}
+
+.score {
+  margin-right: 40px;
+  font-size: 20px;
+}
+
+.topScore {
+  font-size: 20px;
+}
+
+.gameLogoContainer {
+  display: flex;
+  align-items: center;
+}
+.gameTitle {
+  color: #ffffff;
+}

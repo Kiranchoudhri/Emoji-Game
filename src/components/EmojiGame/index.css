@@ -1,0 +1,28 @@
+/* Write your code here. */
+
+.bgContainer {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  padding-bottom: 40px;
+}
+
+.emojiWrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+}
+
+.emojisContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 60%;
+  list-style-type: none;
+}
+
+.winOrLooseContainer {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
